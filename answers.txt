@@ -1,0 +1,27 @@
+1.b
+2.a
+3.b
+4.b
+5.d
+6.a
+7.a
+8.d
+9.b
+10.a
+11.d
+
+THEORY
+1.Git is used for source code management and helps teams work together on a project.
+With Git , teams are able to collaborate on projects from different remote areas. Also, it helps tracks changes to have been made on a project and if there is a need to return to the previous version of a project/code , Git makes that possible.
+
+
+2.What are the various steps/commands you’ll use to create a frontend/backend repository and push your project to the GitHub repository created?
+i. Lauch git bash
+ii. navigate to current working directory 
+iii. create a folder using "mkdir" followed by folder
+iv. initialize git in the directory by typing "git init" and press enter
+v. login to GitHub account on your browser
+vi. create a new repo
+vii. follow instructions for adding a repo to GitHub.
+viii. make changes and commit it to your new repo.
+
